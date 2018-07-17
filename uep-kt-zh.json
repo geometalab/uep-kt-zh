@@ -588,13 +588,14 @@
           "city",
           "state",
           "country",
-          "continent"
+          "continent",
+          "town"
         ]
       ],
       "layout": {
         "text-field": "{name:latin}\n{name:nonlatin}",
         "text-font": [
-          "Noto Sans Regular"
+          "Noto Sans Italic"
         ],
         "text-max-width": 6,
         "text-size": {
@@ -633,9 +634,10 @@
           "Point"
         ],
         [
-          "==",
+          "in",
           "class",
-          "city"
+          "city",
+          "town"
         ]
       ],
       "layout": {
@@ -667,5 +669,5 @@
     }
   ],
   "id": "uep-kt-zh",
-  "owner": ""
+  "owner": "geometalab"
 }
