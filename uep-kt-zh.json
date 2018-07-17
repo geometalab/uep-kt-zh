@@ -589,7 +589,8 @@
           "state",
           "country",
           "continent",
-          "town"
+          "town",
+          "village"
         ]
       ],
       "layout": {
@@ -637,7 +638,8 @@
           "in",
           "class",
           "city",
-          "town"
+          "town",
+          "village"
         ]
       ],
       "layout": {
