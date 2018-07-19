@@ -49,8 +49,7 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "landcover",
-      "minzoom": 11,
-      "maxzoom": 24,
+      "minzoom": 12,
       "filter": [
         "all",
         [
@@ -79,6 +78,7 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "landuse",
+      "minzoom": 12,
       "filter": [
         "all",
         [
@@ -97,8 +97,7 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "landcover",
-      "minzoom": 11,
-      "maxzoom": 24,
+      "minzoom": 12,
       "filter": [
         "all",
         [
@@ -116,8 +115,7 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "landcover",
-      "minzoom": 11,
-      "maxzoom": 24,
+      "minzoom": 12,
       "filter": [
         "any",
         [
@@ -140,8 +138,7 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "landcover",
-      "minzoom": 11,
-      "maxzoom": 24,
+      "minzoom": 12,
       "filter": [
         "all",
         [
@@ -159,7 +156,7 @@
       "type": "symbol",
       "source": "openmaptiles",
       "source-layer": "housenumber",
-      "minzoom": 17,
+      "minzoom": 16,
       "filter": [
         "==",
         "$type",
