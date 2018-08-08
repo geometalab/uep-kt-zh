@@ -12,11 +12,11 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://free.tilehosting.com/data/v3.json?key={key}"
+      "url": "https://free.tilehosting.com/data/v3.json?key=k79ra0ozzslQrAF6Uws7"
     }
   },
   "sprite": "https://raytlye.github.io/uep-kt-zh/sprite",
-  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key={key}",
+  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key=k79ra0ozzslQrAF6Uws7",
   "layers": [
     {
       "id": "Hintergrund",
